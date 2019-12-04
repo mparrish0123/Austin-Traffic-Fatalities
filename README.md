@@ -1,6 +1,6 @@
 # Capstone
 
-## Capstone - Analysis of Traffic Fatalities in Austin Metro Area (in progress)
+## Analysis of Traffic Fatalities in Austin Metro Area
 ### ●	Sourced, gathered, engineered and transformed traffic accident data from 2010 through 2018.
 ### ●	Created SQL database to store and combine data from multiple government sources.  
 ### ●	Modeled a classification Logistic Regression to analyze the effect of weather, time, speed, on fatal accidents.
