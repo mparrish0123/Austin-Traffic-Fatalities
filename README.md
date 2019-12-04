@@ -6,4 +6,4 @@
 ### ●	Modeled a classification Logistic Regression to analyze the effect of weather, time, speed, on fatal accidents.
 
 ### ●	Conducted TimeSeries analysis on data for this area, showing the increase of population, seasonality and accident trends.
-### ●	Charted major traffic related law changes (such as introduction of ride-share) with traffic accident data to show the effect of these events on fatal accidents.
+### ●	Charted major transportation related changes (such as introduction of ride-share) with traffic accident data to show the effect of these events on fatal accidents.
